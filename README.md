@@ -2,6 +2,6 @@
 
 ## Results
 
-<img src="images/2.jpg">
+<img src="images/2.png">
 
-<img src="images/1.jpg"> 
+<img src="images/1.png"> 
